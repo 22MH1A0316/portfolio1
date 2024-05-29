@@ -1,5 +1,5 @@
 title:Zulu Charlton S
-#logo:assets/img/headshot_circle.png
-#description:text below image
-#showdown_downloads:true
+logo:img/headshot_circle.png
+description:text below image
+showdown_downloads:true
 theme:jekyll-theme-minimal
