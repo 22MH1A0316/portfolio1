@@ -1,4 +1,5 @@
 #Mechanical Engineer(major)
+
 #Artificial Intelligence and Machine Learning(minor)
 
 ####*Technical skills*:Solid edge,Catia V5,C,Python
